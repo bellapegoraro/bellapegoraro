@@ -2,13 +2,13 @@
 
 ## I'm Isabella, but stay confortable to call me Bella
 
-:computer: I'm Full stack Developer!
+- :computer: I'm Full stack Developer!
 
-:house_with_garden: I’m from Brazil.
+- :house_with_garden: I’m from Brazil.
 
-- 🔭 I’m currently working on a company that it's main product envolves internet security and firewall :lock:;
+- I’m currently working on a company that it's main product envolves internet security and firewall :lock:;
 
-- 🌱 I’m currently looking after to learn mobile related technologies :iphone:;
+- I’m currently looking after to learn mobile related technologies :iphone:;
 
 
 ## About me
@@ -47,4 +47,3 @@
 <code><img height= "20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
 <code><img height= "20" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></code>
 <code><img height= "20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></code>
-
