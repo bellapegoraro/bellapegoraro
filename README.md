@@ -6,9 +6,9 @@
 
 - :house_with_garden: I’m from Brazil.
 
-- I’m currently working on a company that it's main product envolves internet security and firewall :lock:;
+- :lock: I’m currently working on a company that it's main product envolves internet security and firewall.
 
-- I’m currently looking after to learn mobile related technologies :iphone:;
+- :iphone: I’m currently looking after to learn mobile related technologies.
 
 
 ## About me
