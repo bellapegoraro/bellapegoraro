@@ -13,11 +13,12 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/bellapegoraro/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bellapegoraro/)](https://github.com/bellapegoraro/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/isabella-pegoraro-marcondes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabella-pegoraro-marcondes/)](https://www.linkedin.com/in/isabella-pegoraro-marcondes/)
 
-
+## Languages and Tools
+[![Bellapegoraro GitHub stats](https://github-readme-stats.vercel.app/api/?username=bellapegoraro)](https://github.com/bellapegoraro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellapegoraro&layout=compact)](https://github.com/bellapegoraro/github-readme-stats)
 
 <code><img height= "20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
