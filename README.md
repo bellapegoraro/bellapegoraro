@@ -6,7 +6,7 @@
 
 - :house_with_garden: I’m from Brazil.
 
-- :lock: I’m currently working on a company that it's main product envolves internet security and firewall.
+- :lock: I’m currently working at MadeiraMadeira.
 
 - :iphone: I’m currently looking after to learn mobile related technologies.
 
