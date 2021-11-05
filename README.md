@@ -2,13 +2,11 @@
 
 ## I'm Isabella, but stay confortable to call me Bella
 
-- :computer: I'm Full stack Developer!
+- :computer: I'm Front End Developer!
 
 - :house_with_garden: I’m from Brazil.
 
 - :lock: I’m currently working at MadeiraMadeira.
-
-- :iphone: I’m currently looking after to learn mobile related technologies.
 
 
 ## About me
